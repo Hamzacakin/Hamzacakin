@@ -11,6 +11,6 @@
 
 </div>
 
-[![Ahmed Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzacakin&bg_color=000000&color=00ecf9&line=caf0fe&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ahmed Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzacakin&bg_color=000000&color=00bfbf&line=caf0fe&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,swift,bootstrap,py,java,notion,&perline=3)](https://skillicons.dev)<br>
