@@ -33,12 +33,9 @@
 
 ### Connect:
 <p align="left">
-<a href="https://codepen.io/hamzacakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hamzacakin" height="15" width="20" /></a>
-<a href="https://dev.to/ahmedhamzacakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmedhamzacakin" height="15" width="20" /></a>
-<a href="https://twitter.com/ahmedhamzacakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedhamzacakin" height="15" width="20" /></a>
-<a href="https://linkedin.com/in/hamzacakin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzacakin/" height="15" width="20" /></a>
+<a href="https://twitter.com/ahmedhamzacakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedhamzacakin" height="15" width="20" /></a>&nbsp&nbsp&nbsp&nbsp
+<a href="https://linkedin.com/in/hamzacakin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzacakin/" height="15" width="20" /></a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://medium.com/@ahmedhamzacakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedhamzacakin" height="15" width="20" /></a>
-<a href="https://www.leetcode.com/hamzacakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamzacakin" height="15" width="20" /></a>
 </p>
 
 
