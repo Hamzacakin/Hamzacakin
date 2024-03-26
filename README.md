@@ -7,7 +7,7 @@
 
 
 
-
- 
+<br>
+ <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,swift,bootstrap,py,java,notion,&perline=3)](https://skillicons.dev)<br>
 ![Ahmed Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzacakin&theme=dark&show_icons=true)
