@@ -5,4 +5,4 @@
   - :bulb: [Twitter](https://twitter.com/ahmedhamzacakin)
   - :office: [LinkedIn](https://www.linkedin.com/in/hamzacakin/)
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,swift,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,swift,bootstrap,py,java,notion,&perline=3)](https://skillicons.dev)
