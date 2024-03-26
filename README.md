@@ -6,5 +6,6 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/hamzacakin/)
  
 [![My Skills](https://skillicons.dev/icons?
-i=python,js,html,css,react,nodejs,jquery,sass,bootstrap,postgres,vscode,github,wordpress&theme=light&perl
-ine=4)](https://skillicons.dev)
+i=c,python,ts,js,html,css,react,redux,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledco
+mponents,tailwind,jest,django,sqlite,postgres,vscode,postman,github,wordpress&theme=light&perl
+ine=5)](https://skillicons.dev)
