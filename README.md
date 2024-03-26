@@ -30,7 +30,7 @@
 ### Tools:
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007acc&labelColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00bfbf&animation=twinkling&fontSize=30&textBg=false&reversal=true&descAlignY=35&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00bfbf&animation=twinkling&fontSize=30&textBg=false&reversal=true&descAlignY=35&section=footer"/>
 
 
 
