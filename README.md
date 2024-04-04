@@ -12,7 +12,7 @@
 
 </div>
 
-[![Ahmed Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzacakin&bg_color=121212&color=00bfbf&line=caf0fe&point=21b876&area=true&hide_border=true)](https://github.com/Hamzacakin/Hamzacakin)
+[![Ahmed Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzacakin&bg_color=000000&color=00bfbf&line=caf0fe&point=21b876&area=true&hide_border=true)](https://github.com/Hamzacakin/Hamzacakin)
 
 
 ### Skills:
