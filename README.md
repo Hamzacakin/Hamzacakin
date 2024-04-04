@@ -12,11 +12,11 @@
 
 </div>
 
-[![Ahmed Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzacakin&bg_color=000000&color=00bfbf&line=caf0fe&point=000000&area=true&hide_border=true)](https://github.com/Hamzacakin/Hamzacakin)
+[![Ahmed Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzacakin&bg_color=caf000&color=00bfbf&line=caf0fe&point=000000&area=true&hide_border=true)](https://github.com/Hamzacakin/Hamzacakin)
 
 
 ### Skills:
-![HTML](https://img.shields.io/badge/-HTML-4c658a?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
 
