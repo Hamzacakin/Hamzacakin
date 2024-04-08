@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00bfbf&text=Ahmed%20Hamza%20Çakın&fontColor=fff&animation=twinkling&fontSize=30&textBg=false&reversal=true&descAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&center=true&vCenter=true&duration=2000&pause=3000&color=00BFBF&random=false&width=1000&lines=Hello!+My+name+is+Ahmed+Hamza%2C+I+am+from+Turkey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&center=true&vCenter=true&duration=2000&pause=4000&color=00BFBF&random=false&width=1000&lines=Hello!+My+name+is+Ahmed+Hamza%2C+I+am+from+Turkey)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&center=true&vCenter=true&size=13&duration=2000&pause=3000&color=FFFFFF&random=false&width=1000&lines=I'm+on+my+way+to+becoming+a+full-stack+developer+by+taking+HTML%2C+CSS%2C+JS%2C+BS%2C+REACT++and+SWIFT+courses+in+Clarusway+and+other+courses)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&center=true&vCenter=true&size=13&duration=2000&pause=6000&color=FFFFFF&random=false&width=1000&lines=I'm+on+my+way+to+becoming+a+full-stack+developer+by+taking+HTML%2C+CSS%2C+JS%2C+BS%2C+REACT++and+SWIFT+courses+in+Clarusway+and+other+courses)](https://git.io/typing-svg)
 
 
 <div align="center">
