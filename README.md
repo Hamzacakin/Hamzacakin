@@ -2,13 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&center=true&vCenter=true&duration=2000&pause=3000&color=00BFBF&random=false&width=1000&lines=Hello!+My+name+is+Ahmed+Hamza%2C+I+am+from+Turkey)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&center=true&vCenter=true&size=16&duration=2000&pause=6000&color=FF0000&random=false&width=1000&lines=I'm+on+my+way+to+becoming+a+full-stack+Mobile+developer;+by+taking;+HTML%2C+CSS%2C+JS%2C+BS%2C+REACT%2C+NodeJS%2C+Python+and+SWIFT+courses+in+Clarusway+and+other+courses)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&center=true&vCenter=true&size=16&duration=2000&pause=6000&color=FF0000&random=false&width=1000&lines=)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&center=true&vCenter=true&size=16&duration=2000&pause=4500&color=FF0000&random=false&width=1000&lines=HTML%2C+CSS%2C+JS%2C+BS%2C+REACT%2C+NodeJS%2C+Python+and+SWIFT+courses+in+Clarusway+and+other+courses)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&center=true&vCenter=true&size=16&duration=4000&pause=2000&color=FF0000&random=false&width=1000&lines=I'm+on+my+way+to+becoming+a+full-stack+Mobile+developer;+by+taking;+HTML%2C+CSS%2C+JS%2C+BS%2C+REACT%2C+NodeJS%2C+Python+and+SWIFT+courses+in+Clarusway+and+other+courses)](https://git.io/typing-svg)
 
 
 <div align="center">
