@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&center=true&vCenter=true&size=16&duration=2000&pause=6000&color=FF0000&random=false&width=1000&lines=I'm+on+my+way+to+becoming+a+full-stack+Mobile+developer+;by+taking)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&center=true&vCenter=true&size=16&duration=2000&pause=4500&color=FF0000&random=false&width=1000&lines=I'm+on+my+way+to+becoming+a+full-stack+Mobile+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&center=true&vCenter=true&size=16&duration=2000&pause=4500&color=FF0000&random=false&width=1000&lines=HTML%2C+CSS%2C+JS%2C+BS%2C+REACT%2C+NodeJS%2C+Python+and+SWIFT+courses+in+Clarusway+and+other+courses)](https://git.io/typing-svg)
+
 
 
 <div align="center">
