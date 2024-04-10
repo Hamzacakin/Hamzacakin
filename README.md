@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&center=true&vCenter=true&duration=2000&pause=3000&color=00BFBF&random=false&width=1000&lines=Hello!🖖🏻;+My+name+is+Ahmed+Hamza%2C+I+am+from+Turkey)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&center=true&vCenter=true&size=18&duration=4000&pause=2000&color=FF0000&random=false&width=1000&lines=I'm+on+my+way+to+becomıng+a+FULL-STACK+MOBILE+developer;+by+takıng+HTML%2C+CSS%2C+JS%2C+BS%2C+REACT%2C+NodeJS%2C+Python+and+SWIFT+courses+in+ClarusWay+and+other+ıt-fırm)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&center=true&vCenter=true&size=18&duration=5000&pause=2000&color=FF0000&random=false&width=1000&lines=I'm+on+my+way+to+becomıng+a+FULL-STACK+MOBILE+developer;+by+takıng+HTML%2C+CSS%2C+JS%2C+BS%2C+REACT%2C+NodeJS%2C+Python+and+SWIFT+courses+in+ClarusWay+and+other+ıt-fırm)](https://git.io/typing-svg)
 
 
 <div align="center">
